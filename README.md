@@ -1,1 +1,1 @@
- https://just4script.github.io/rsschool-cv/cv
+ https://just4script.github.io/cv/cv
